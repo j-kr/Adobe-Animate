@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="home" itemID="5a65d5ce-000000ae" symbolType="button" lastModified="1516623310">
+  <timeline>
+    <DOMTimeline name="home">
+      <layers>
+        <DOMLayer name="Warstwa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="home_button-350x350.png">
+                  <matrix>
+                    <Matrix a="0.342849731445313" d="0.342849731445313"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,474 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1200" height="800" currentTimeline="1" xflVersion="2.96" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 18.0 build 115" majorVersion="18" buildNumber="115" viewAngle3D="97.275380851371" vanishingPoint3DX="600" vanishingPoint3DY="400" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="3CE50BB6-55CF-47A6-B591-01286DDDC64C" fileGUID="F37C503B7B050C4EB5D6CB0F616C079E">
+     <brushdefinitions>
+          <Include href="PaintBrushDefinitions.xml"/>
+     </brushdefinitions>
+     <media>
+          <DOMBitmapItem name="1200px-Nvidia_image_logo.svg.png" itemID="5a65d951-000000ec" sourceLastImported="1516623693" externalFileSize="61197" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1200px-Nvidia_image_logo.svg.png" bitmapDataHRef="M 7 1516623787.dat" frameRight="24000" frameBottom="18640"/>
+          <DOMBitmapItem name="backgroud.jpg" itemID="5a65c1a8-00000008" sourceLastImported="1516620045" externalFileCRC32="2565351841" externalFileSize="2655193" allowSmoothing="true" quality="50" href="backgroud.jpg" bitmapDataHRef="M 1 1516618152.dat" frameRight="56580" frameBottom="40000" isJPEG="true"/>
+          <DOMBitmapItem name="csm_Ideapad_Y700_15_inch_002_0_0e5e7605cc.png" itemID="5a65c205-00000011" sourceLastImported="1516620045" externalFileCRC32="2087474574" externalFileSize="1062248" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="csm_Ideapad_Y700_15_inch_002_0_0e5e7605cc.png" bitmapDataHRef="M 2 1516618245.dat" frameRight="38400" frameBottom="21620"/>
+          <DOMBitmapItem name="home_button-350x350.png" itemID="5a65d5ea-000000b2" sourceLastImported="1516623255" externalFileSize="19588" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="home_button-350x350.png" bitmapDataHRef="M 6 1516623274.dat" frameRight="7000" frameBottom="7000"/>
+          <DOMBitmapItem name="Intel-Core-i7-6700HQ-6th-Generation.png" itemID="5a65d276-00000060" sourceLastImported="1516622112" externalFileCRC32="39438452" externalFileSize="86530" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="Intel-Core-i7-6700HQ-6th-Generation.png" bitmapDataHRef="M 5 1516622149.dat" frameRight="8000" frameBottom="8000"/>
+          <DOMBitmapItem name="jbl-logo-norm-red.png" itemID="5a65d951-000000ed" sourceLastImported="1516624079" externalFileSize="22590" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="jbl-logo-norm-red.png" bitmapDataHRef="M 8 1516624093.dat" frameRight="10240" frameBottom="10240"/>
+          <DOMBitmapItem name="light-flare-and-particles_m1izdumu__F0000.png" itemID="5a65db79-0000011b" sourceLastImported="1516624687" externalFileSize="642704" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="light-flare-and-particles_m1izdumu__F0000.png" bitmapDataHRef="M 9 1516624695.dat" frameRight="38400" frameBottom="21600"/>
+          <DOMSoundItem name="little_robot_sound_factory_Ambience_BlackHole_00 — kopia.wav" itemID="5a65d277-00000061" sourceLastImported="1516621087" externalFileCRC32="2744651142" externalFileSize="5165612" href="little_robot_sound_factory_Ambience_BlackHole_00 — kopia.wav" soundDataHRef="M 3 1516621112.dat" format="44kHz 16bit Stereo" sampleCount="1186466" dataLength="4745864"/>
+          <DOMSoundItem name="multimedia_button_click_025.wav" itemID="5a65d277-00000062" sourceLastImported="1516621462" externalFileCRC32="539318193" externalFileSize="16172" href="multimedia_button_click_025.wav" soundDataHRef="M 4 1516621478.dat" format="44kHz 16bit Mono" sampleCount="8064" dataLength="16128"/>
+     </media>
+     <symbols>
+          <Include href="button_wroc_procesor.xml" itemIcon="0" loadImmediate="false" itemID="5a65d1bf-00000053" lastModified="1516622567"/>
+          <Include href="ekran_guzik.xml" itemIcon="0" loadImmediate="false" itemID="5a65dbba-0000011d" lastModified="1516624853"/>
+          <Include href="grafika_button.xml" itemIcon="0" loadImmediate="false" itemID="5a65d64f-000000c1" lastModified="1516623773"/>
+          <Include href="home.xml" itemIcon="0" loadImmediate="false" itemID="5a65d5ce-000000ae" lastModified="1516623310"/>
+          <Include href="klawa_button.xml" itemIcon="0" loadImmediate="false" itemID="5a65d915-000000e6" lastModified="1516624215"/>
+          <Include href="procesor_button.xml" itemIcon="0" loadImmediate="false" itemID="5a65c541-00000019" lastModified="1516621522"/>
+          <Include href="procesor_wroc.xml" itemIcon="0" loadImmediate="false" itemID="5a65d3b1-0000007f" lastModified="1516622781"/>
+          <Include href="wroc_procesor.xml" itemIcon="0" loadImmediate="false" itemID="5a65d4b5-0000008f" lastModified="1516623047"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scena 1">
+               <layers>
+                    <DOMLayer name="Actions" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[
+/* Kliknij, aby przejść do klatki i zatrzymać
+Kliknięcie wystąpienia symbolu powoduje przesunięcie głowicy odtwarzania do konkretnej klatki na osi czasu i zatrzymanie filmu.
+Opcji można używać na głównej osi czasu lub na osiach czasu klipów filmowych.
+
+Instrukcje:
+1. Zastąp liczbę 5 w poniższym kodzie numerem klatki, do której ma zostać przesunięta głowica odtwarzania w momencie kliknięcia wystąpienia symbolu.
+2. Klatki w oprogramowaniu EaselJS są numerowane od 0, a nie od 1.
+*/
+
+
+this.procesor_detale.addEventListener("click", fl_ClickToGoToAndStopAtFrame_2.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_2()
+{
+	this.gotoAndStop(10);
+}
+
+
+this.grafika_detale.addEventListener("click", fl_ClickToGoToAndStopAtFrame_5.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_5()
+{
+	this.gotoAndStop(20);
+}
+
+this.klawa_detale.addEventListener("click", fl_ClickToGoToAndStopAtFrame_6.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_6()
+{
+	this.gotoAndStop(30);
+}
+
+this.ekran_detale.addEventListener("click", fl_ClickToGoToAndStopAtFrame_7.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_7()
+{
+	this.gotoAndStop(40);
+}
+
+
+
+/* Kliknij, aby przejść do klatki i zatrzymać
+Kliknięcie wystąpienia symbolu powoduje przesunięcie głowicy odtwarzania do konkretnej klatki na osi czasu i zatrzymanie filmu.
+Opcji można używać na głównej osi czasu lub na osiach czasu klipów filmowych.
+
+Instrukcje:
+1. Zastąp liczbę 5 w poniższym kodzie numerem klatki, do której ma zostać przesunięta głowica odtwarzania w momencie kliknięcia wystąpienia symbolu.
+2. Klatki w oprogramowaniu EaselJS są numerowane od 0, a nie od 1.
+*/
+
+
+this.home.addEventListener("click", fl_ClickToGoToAndStopAtFrame_4.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_4()
+{
+	this.gotoAndStop(1);
+}
+
+]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="52" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[
+/* Kliknij, aby przejść do klatki i zatrzymać
+Kliknięcie wystąpienia symbolu powoduje przesunięcie głowicy odtwarzania do konkretnej klatki na osi czasu i zatrzymanie filmu.
+Opcji można używać na głównej osi czasu lub na osiach czasu klipów filmowych.
+
+Instrukcje:
+1. Zastąp liczbę 5 w poniższym kodzie numerem klatki, do której ma zostać przesunięta głowica odtwarzania w momencie kliknięcia wystąpienia symbolu.
+2. Klatki w oprogramowaniu EaselJS są numerowane od 0, a nie od 1.
+*/
+
+
+this.wroc_procesor.addEventListener("click", fl_ClickToGoToAndStopAtFrame_3.bind(this));
+
+function fl_ClickToGoToAndStopAtFrame_3()
+{
+	this.gotoAndStop(1);
+}
+
+]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="menu" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="61" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="home" name="home" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="0.833328247070313" d="0.833328247070313" tx="22.75" ty="20.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="60" y="60.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="detale" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="procesor_button" name="procesor_detale" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="119.2" ty="507.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="155.55" y="17.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="grafika_button" name="grafika_detale" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="43.9" ty="550.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="186.3" y="17.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="klawa_button" name="klawa_detale" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="865.6" ty="520"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="132.35" y="17.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="ekran_guzik" name="ekran_detale" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="801.35" ty="343.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="116.05" y="17.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="4.65">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|24000 0!24000 0|24000 16000!24000 16000|0 16000!0 16000|0 0"/>
+                                                  <Edge cubics="!24000 16000(;24000,16000 0,16000 0,16000q24000 16000 0 16000);"/>
+                                                  <Edge cubics="!0 0(;0,0 24000,0 24000,0q0 0 24000 0);"/>
+                                                  <Edge cubics="!0 16000(;0,16000 0,0 0,0q0 16000 0 0);"/>
+                                                  <Edge cubics="!24000 0(;24000,0 24000,16000 24000,16000q24000 0 24000 16000);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText fontRenderingMode="standard" width="504.05" height="27.95" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="494.05" ty="26.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Core i7-6700HQ</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="512.8" height="507.15" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="599.1" ty="138"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Core i7-6700HQ to jeden z najpopularniejszych procesorów z serii i7 montowanych we współczesnej generacji laptopów. Ta należąca do rodziny Skylake jednostka ma cztery fizyczne rdzenie, które dzięki technologii HT umożliwiają jednoczesną pracę na ośmiu wątkach. Bazowa częstotliwość taktowania to 2,6 GHz a maksymalna wynosi 3,5 GHz (w zależności od użycia funkcji Turbo Boost). Omawiany układ ma TDP na poziomie 45 W tj. o 2 W niższe, niż i7-4720HQ z Lenovo Y50. Względem poprzednika zmieniła się także technologia wykonania. Opisywany procesor wykonano w litografii 14 nm. Warto również wspomnieć o wsparciu pamięci DDR4, której procesory starszych generacji nie obsługiwały.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Intel-Core-i7-6700HQ-6th-Generation.png">
+                                             <matrix>
+                                                  <Matrix tx="104" ty="183"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#FFFFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="4.65">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!1651 3478|10581 3478!10581 3478|10581 10732!10581 10732|1651 10732!1651 10732|1651 3478"/>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|24000 0!24000 0|24000 16000!24000 16000|0 16000!0 16000|0 0"/>
+                                                  <Edge cubics="!24000 16000(;24000,16000 0,16000 0,16000q24000 16000 0 16000);"/>
+                                                  <Edge cubics="!0 0(;0,0 24000,0 24000,0q0 0 24000 0);"/>
+                                                  <Edge cubics="!0 16000(;0,16000 0,0 0,0q0 16000 0 0);"/>
+                                                  <Edge cubics="!24000 0(;24000,0 24000,16000 24000,16000q24000 0 24000 16000);"/>
+                                                  <Edge cubics="!1651 10732(;1651,10732 1651,3478 1651,3478q1651 10732 1651 3478);"/>
+                                                  <Edge cubics="!10581 10732(;10581,10732 1651,10732 1651,10732q10581 10732 1651 10732);"/>
+                                                  <Edge cubics="!10581 3478(;10581,3478 10581,10732 10581,10732q10581 3478 10581 10732);"/>
+                                                  <Edge cubics="!1651 3478(;1651,3478 10581,3478 10581,3478q1651 3478 10581 3478);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText fontRenderingMode="standard" width="504.05" height="57.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="494.05" ty="26.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>NVIDIA GeForce GTX 960M&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="512.8" height="357.4" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="619.75" ty="175.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Jest to bardzo popularna karta graficzna, która montowana jest zazwyczaj w laptopach do gier w przedziale cenowym do 3000 złotych, a więc nie uderzającym zbytnio po kieszeniach. Producenci w dniu premiery ogłaszali, iż, w porównaniu do serii 800M,  ich karta pochwalić się może większymi osiągami, co można będzie odczuć w różnego rodzaju grach i programach, zwłaszcza graficznych. Czy tak rzeczywiście jest? Weryfikację stanu rzeczy warto rozpocząć od podstawowych parametrów</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="1200px-Nvidia_image_logo.svg.png">
+                                             <matrix>
+                                                  <Matrix a="0.333328247070313" d="0.333358764648438" tx="112" ty="193"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" duration="10" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="4.65">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|24000 0!24000 0|24000 16000!24000 16000|0 16000!0 16000|0 0"/>
+                                                  <Edge cubics="!17312 11039(;17312,11039 22607,11039 22607,11039q17312 11039 22607 11039);"/>
+                                                  <Edge cubics="!17112 7501(;17112,7501 20624,7501 20624,7501q17112 7501 20624 7501);"/>
+                                                  <Edge cubics="!8330 11641(;8330,11641 878,11641 878,11641q8330 11641 878 11641);"/>
+                                                  <Edge cubics="!8606 10788(;8606,10788 2384,10788 2384,10788q8606 10788 2384 10788);"/>
+                                                  <Edge cubics="!24000 16000(;24000,16000 0,16000 0,16000q24000 16000 0 16000);"/>
+                                                  <Edge cubics="!0 0(;0,0 24000,0 24000,0q0 0 24000 0);"/>
+                                                  <Edge cubics="!0 16000(;0,16000 0,0 0,0q0 16000 0 0);"/>
+                                                  <Edge cubics="!24000 0(;24000,0 24000,16000 24000,16000q24000 0 24000 16000);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText fontRenderingMode="standard" width="504.05" height="57.9" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="376.5" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Podświetlana klawiatura oraz głośniki JBL&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="512.8" height="207.65" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="619.75" ty="250.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Wszystkie peryferia takie jak wyjątkowa podświetlana gamingowa klawiatura, głośniki JBL z technologią Dolby Atmos, czy wykonana ze szczególną starannością metalowa obudowa dostarczają niepowtarzalnych wrażeń, niespotykanych w żadnym innym laptopie.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="jbl-logo-norm-red.png">
+                                             <matrix>
+                                                  <Matrix tx="70" ty="124"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" duration="22" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="4.65">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!0 0|24000 0!24000 0|24000 16000!24000 16000|0 16000!0 16000|0 0"/>
+                                                  <Edge cubics="!24000 16000(;24000,16000 0,16000 0,16000q24000 16000 0 16000);"/>
+                                                  <Edge cubics="!0 0(;0,0 24000,0 24000,0q0 0 24000 0);"/>
+                                                  <Edge cubics="!0 16000(;0,16000 0,0 0,0q0 16000 0 0);"/>
+                                                  <Edge cubics="!24000 0(;24000,0 24000,16000 24000,16000q24000 0 24000 16000);"/>
+                                                  <Edge cubics="!17112 7501(;17112,7501 20624,7501 20624,7501q17112 7501 20624 7501);"/>
+                                                  <Edge cubics="!17312 11039(;17312,11039 22607,11039 22607,11039q17312 11039 22607 11039);"/>
+                                                  <Edge cubics="!8606 10788(;8606,10788 2384,10788 2384,10788q8606 10788 2384 10788);"/>
+                                                  <Edge cubics="!8330 11641(;8330,11641 878,11641 878,11641q8330 11641 878 11641);"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText fontRenderingMode="standard" width="630.85" height="27.95" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Zwiększająca komfort użytkowania matowa matryca</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="512.8" height="267.55" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="619.75" ty="250.6"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Lenovo Y700-15 wyposażony jest w matową matrycę, która zwiększa komfort i wygodę użytkowania oraz odpowiada za mniejsze zmęczenie wzroku. Użytkownik może zapomnieć o odbijającym się od ekranu świetle i cieszyć się idealnym obrazem - gładkimi i wyrazistymi zdjęciami, grafikami oraz czcionkami.&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" lineHeight="27.95" size="25" bitmapSize="500" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="light-flare-and-particles_m1izdumu__F0000.png">
+                                             <matrix>
+                                                  <Matrix a="0.260406494140625" d="0.260406494140625" tx="67" ty="233"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Warstwa_3" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="61" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="csm_Ideapad_Y700_15_inch_002_0_0e5e7605cc.png">
+                                             <matrix>
+                                                  <Matrix a="0.543502807617188" d="0.543685913085938" tx="91" ty="136"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="akcje" color="#00FFFF" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="61" keyMode="9728">
+                                   <Framescript language="JavaScript">
+                                        <script><![CDATA[this.stop();]]></script>
+                                   </Framescript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="tło" color="#00FFFF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="61" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="backgroud.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.424179077148438" d="0.424179077148438"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts>
+          <GlobalScripts language="Javascript"/>
+     </scripts>
+     <persistentData>
+          <PD n="Kliknij, aby przejść do klatki i zatrzymać" t="i" v="5"/>
+          <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

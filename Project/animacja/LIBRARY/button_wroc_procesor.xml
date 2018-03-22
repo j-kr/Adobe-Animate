@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="button_wroc_procesor" itemID="5a65d1bf-00000053" symbolType="button" lastModified="1516622567">
+  <timeline>
+    <DOMTimeline name="button_wroc_procesor" currentFrame="2">
+      <layers>
+        <DOMLayer name="Warstwa_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-40.05" ty="-28.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <PaintBrushStroke scaleMode="normal" weight="27.6" paintBrushDefinition="28">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </PaintBrushStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2176 576|801 576"/>
+                    <Edge cubics="!2176 576(;2176,576 801,576 801,576q2176 576 801 576);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-40.05" ty="-28.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <PaintBrushStroke scaleMode="normal" weight="27.6" paintBrushDefinition="28">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </PaintBrushStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2176 576|801 576"/>
+                    <Edge cubics="!2176 576(;2176,576 801,576 801,576q2176 576 801 576);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
